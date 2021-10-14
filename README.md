@@ -1,2 +1,2 @@
 # LeetCodeLab
-紀錄leetcode刷題的測試區
+紀錄leetcode submit的結果
